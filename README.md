@@ -3,45 +3,16 @@
 ✨ **Front-End Developer | Crafting Interactive & Modern UIs**
 
 ---
-
 ## 👋 About Me
-Front-end developer focused on **React** and **Tailwind CSS**, skilled in responsive design and reusable components.  
-I have experience delivering 5+ real-world projects with modern and optimized UIs.  
-Currently expanding my skills in **Full-Stack Development with Next.js**, focusing on SSR/SSG for performance and SEO.
+Front-end developer focused on **React** and **Next.js**, crafting modern, responsive, and visually engaging UIs.  
+Currently expanding into **Full-Stack Development**, exploring server-side rendering, API routes, and state management to deliver performant, scalable, and delightful user experiences.
 
 ---
 
-## 📚 Currently Learning — Next.js (Deep Dive)
-
-Right now, my main focus is on **Next.js**, where I’m actively learning and implementing:
-
-- **Rendering Architectures (SSR / SSG / ISR / CSR)**  
-  Understanding when and how to use each approach, implementing with `getServerSideProps`, `getStaticProps`, `getStaticPaths`, and Revalidation.
-
-- **App Router vs Pages Router**  
-  Key differences, benefits, migration strategies, and features like nested layouts & route handlers.
-
-- **Server Components & Client Components**  
-  Writing server components to reduce bundle size, and using `use client` for stateful/interactive components.
-
-- **Data Fetching & Caching**  
-  Strategies like server-side fetch (SSR/SSG), client-side (SWR / React Query), and cache/revalidate control for dynamic data.
-
-- **Route Handlers / API Routes**  
-  Building APIs directly in Next.js (route handlers) for CRUD operations, validation, and database integration (e.g., Prisma).
-
----
 
 ## **CODING STATS**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliSheydai&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true&line_height=27"/>
-</p>
-
----
-
-## **STREAK STATS**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliSheydai&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -59,6 +30,7 @@ Right now, my main focus is on **Next.js**, where I’m actively learning and im
 
 | Project        | Description                               | Demo |
 |----------------|-------------------------------------------|------|
+| Shadcn todo app    | use shadcn for todo app with localStorage | [Live Demo](https://shadcn-todo-app-tau.vercel.app/) |
 | Coffee Shop    | Coffee store with search, filters & animations | [Live Demo](https://coffee-shop-delta-sage.vercel.app/) |
 | Todo App       | Task manager built with React & Redux      | [Live Demo](https://todo-app-sigma-two-63.vercel.app/) |
 | Portfolio      | Animated personal portfolio                | [Live Demo](https://portfolio-ruddy-tau-23.vercel.app/) |
