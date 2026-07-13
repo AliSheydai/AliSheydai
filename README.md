@@ -115,7 +115,7 @@ A library of **100+ reusable components** built with React, Shadcn/ui & Tailwind
 
 A fully responsive music-streaming web app with a **Persian (RTL) UI**, component-based architecture, and interactive Framer Motion animations.
 
-🔗 [Live Demo](https://music-spotify-production.up.railway.app) — _ongoing_
+🔗 [Live Demo](https://music-spotify-h.vercel.app/) — _ongoing_
 `Next.js` `Framer Motion` `RTL UI`
 
 </td>
