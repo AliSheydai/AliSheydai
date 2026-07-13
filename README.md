@@ -120,6 +120,18 @@ A fully responsive music-streaming web app with a **Persian (RTL) UI**, componen
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏢 AI Assistant Builder Platform — Simorgh Agency
+
+SaaS frontend (landing page + admin dashboard) built for client **Dadegard**, featuring an AI assistant customization UI with REST API integration across 4 messaging platforms (Telegram, WhatsApp, Bale, Eitaa). Improved page load performance by ~20–30% through image optimization and lazy loading.
+
+🔗 [Live Demo](https://dadegard.vercel.app/)
+`Next.js` `Shadcn/ui` `Tailwind CSS` `Framer Motion` `REST API`
+
+</td>
+</tr>
 </table>
 
 ---
